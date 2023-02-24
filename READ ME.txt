@@ -1,0 +1,11 @@
+install the mathplotlib library with the command -> pip install matplotlib
+
+follow me on twitter -> @nosakail
+
+
+Enjoy 
+
+
+
+
+
