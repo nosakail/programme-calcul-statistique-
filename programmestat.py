@@ -53,17 +53,17 @@ def predict_y(x, X, Y):
 
 
 if __name__ == "__main__":
-    #venez follow twitter : @nosakail 
+   
 
     import matplotlib.pyplot as plt
     #intaller la bibliotheque matplotlib -> pip install matplotlib
     import math
 
-    #faire un nuage de point 
-    valeur_x = [2, 4, 8,10,24,40,52] #changer selon vos valeurs
-    valeur_y = [6,11,15,20,39,62,85]  #changer selon vos valeurs
+    
+    valeur_x = [2, 4, 8,10,24,40,52] #!!!!!changer selon vos valeurs!!!!!
+    valeur_y = [6,11,15,20,39,62,85]  #!!!!changer selon vos valeurs!!!!!
 
-    plt.figure()
+    plt.figure() #faire un nuage de point 
 
     plt.scatter(valeur_x, valeur_y)
    
